@@ -14,6 +14,10 @@ Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given mat
 
 Step 4: print(rank)
 ## Program:
+
+Developed by:sarvesh.s
+
+RegisterNumber: 22003029
 ```
 import numpy as np
 a = np.array([[1,2,3],[3,6,9]])
